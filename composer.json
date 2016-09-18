@@ -1,0 +1,40 @@
+{
+  "name": "ptrnov/yii2-scheduler-fullcalendar",
+  "description": "Yii2 fullcalendar scheduler widget",
+  "require": {
+    "php": ">=5.4.0",
+	"yiisoft/yii2" : "*",
+	"yiisoft/yii2-jui": "*"
+  },
+  "keywords": [
+    "fullcalendar", 
+	"fullcalendar-scheduler",
+    "scheduler",
+	"ptrnov",
+	"ptr",
+    "javascript",
+    "event",
+    "calendar",	
+	"nov",
+	"yii2"
+  ],
+  "homepage": "https://github.com/ptrnov/yii2-scheduler-fullcalendar",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+		{
+			"name": "Piter Novian",
+			"email": "ptr.nov@gmail.com"
+		}
+	],	
+  "autoload": {
+    "psr-4": {
+      "ptrnov\\fullcalendar\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+		"dev-master": "1.0.x-dev"
+    }
+  }
+}
