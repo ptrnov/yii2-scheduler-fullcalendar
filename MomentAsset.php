@@ -11,5 +11,5 @@ class MomentAsset extends \yii\web\AssetBundle
 	public $js = [
 		'js/moment.min.js',
 	];
-	public $sourcePath = '@vendor/ptrnov/yii2-fullcalendar/assets';
+	public $sourcePath = '@vendor/ptrnov/yii2-scheduler-fullcalendar/assets';
 }
